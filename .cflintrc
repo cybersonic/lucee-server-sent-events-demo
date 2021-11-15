@@ -1,0 +1,7 @@
+{
+	"excludes": [
+		{
+			"code": "ARG_HINT_MISSING_SCRIPT"
+		}
+	]
+}
